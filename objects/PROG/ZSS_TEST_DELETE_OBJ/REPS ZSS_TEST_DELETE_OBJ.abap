@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zss_test_delete_obj.
-"version1
+"version1 version2
