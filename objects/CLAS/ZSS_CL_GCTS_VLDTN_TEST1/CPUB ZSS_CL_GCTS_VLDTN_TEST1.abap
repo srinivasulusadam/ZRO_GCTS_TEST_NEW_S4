@@ -1,0 +1,7 @@
+CLASS zss_cl_gcts_vldtn_test1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  METHODS: sum.
