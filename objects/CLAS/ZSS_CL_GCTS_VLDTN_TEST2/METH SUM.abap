@@ -1,3 +1,3 @@
 METHOD sum.
-"version1
+""version1 "version2
 ENDMETHOD.
