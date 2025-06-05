@@ -56,10 +56,10 @@
     "AS4LOCAL":"N",
     "AS4VERS":0,
     "DDTEXT":"seq tst",
-    "REPTEXT":"v1",
-    "SCRTEXT_S":"v1",
-    "SCRTEXT_M":"v1",
-    "SCRTEXT_L":"v1"
+    "REPTEXT":"v2",
+    "SCRTEXT_S":"v2",
+    "SCRTEXT_M":"v2",
+    "SCRTEXT_L":"v2"
    }
   ]
  },
