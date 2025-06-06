@@ -4,5 +4,6 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zss_vers_seq_tst_1.
-"Verion1 "Version2
-"Version2
+"Verion1 "Version2 "Version3
+"Version2 "Version3
+"Version3
