@@ -7,4 +7,5 @@ METHOD Z_FIRST_CROSS_METHOS.
   WRITE 'Test5'.
   WRITE 'Test6'.
   WRITE 'Test7'.
+  WRITE 'Test8'.
 ENDMETHOD.
