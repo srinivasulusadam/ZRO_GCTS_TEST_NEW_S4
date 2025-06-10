@@ -3,4 +3,5 @@ METHOD Z_FIRST_CROSS_METHOS.
   WRITE 'Test1'.
   WRITE 'Test2'.
   WRITE 'Test3'.
+  WRITE 'Test4'.
 ENDMETHOD.
