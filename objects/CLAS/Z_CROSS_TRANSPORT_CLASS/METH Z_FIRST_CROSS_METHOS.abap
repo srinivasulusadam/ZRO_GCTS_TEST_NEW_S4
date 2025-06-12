@@ -8,4 +8,6 @@ METHOD Z_FIRST_CROSS_METHOS.
   WRITE 'Test6'.
   WRITE 'Test7'.
   WRITE 'Test8'.
+  WRITE 'Test9'.
+  WRITE 'Test10'.
 ENDMETHOD.
