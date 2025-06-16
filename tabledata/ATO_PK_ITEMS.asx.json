@@ -1,0 +1,18 @@
+[
+ {
+  "table":"ATO_PK_ITEMS",
+  "data":
+  [
+   {
+    "ITEM_TYPE":"CFDF",
+    "ITEM_ID":"ZZ1_SS_TEST1_FIELD1",
+    "CHANGED_BY":"TESTCON1",
+    "CHANGE_REASON":"",
+    "ITEM_DESCRIPTION":"SS_TEST1_FIELD1",
+    "ITEM_STATUS":"C",
+    "LAST_NOTIFICATION":"+020250616112208",
+    "PREFIX":"ZZ1_"
+   }
+  ]
+ }
+]
