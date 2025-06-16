@@ -44,6 +44,20 @@
      }
     ],
     "hash":"NuXUeekb99E4A7P3Zf1o3JB+8Zk="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_SS_TEST3_FIELD1"
+     }
+    ],
+    "hash":"Aj/LXUxcrvLzJ01oegRGbS+zkG0="
    }
   ]
  }
