@@ -1,0 +1,7 @@
+CLASS zss_cl_test1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  methods: enjoy.
