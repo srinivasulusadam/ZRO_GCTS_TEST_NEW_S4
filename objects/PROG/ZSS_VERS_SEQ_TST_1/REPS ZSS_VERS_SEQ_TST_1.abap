@@ -1,9 +1,10 @@
 *&---------------------------------------------------------------------*
-*& Report zss_rp_1214_obj1
+*& Report zss_vers_seq_tst_1
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT zss_rp_1214_obj1.
-"Version2 Version3 Version4
-"Version3 Version4
+REPORT zss_vers_seq_tst_1.
+"Verion1 "Version2 "Version3 "Version4
+"Version2 "Version3 "Version4
+"Version3 "Version4
 "Version4
