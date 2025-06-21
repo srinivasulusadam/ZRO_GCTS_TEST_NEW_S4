@@ -26,6 +26,34 @@
      },
      {
       "key":"ITEM_ID",
+      "value":"ZZ1_SS_21_06_FIELD3"
+     }
+    ],
+    "hash":"jqZBAzq/PdkMPmSVxZ6O9tNKAJI="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_SS_21_06_FIELD4"
+     }
+    ],
+    "hash":"SAj5OPZmH3biS2RixF7Jji5yyck="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
       "value":"ZZ1_SS_RETEST_FIELD1"
      }
     ],
