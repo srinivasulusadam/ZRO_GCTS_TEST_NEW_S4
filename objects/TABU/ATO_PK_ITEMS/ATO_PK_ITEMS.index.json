@@ -12,6 +12,20 @@
      },
      {
       "key":"ITEM_ID",
+      "value":"ZZ1_SS_21_06_FIELD2"
+     }
+    ],
+    "hash":"SnmZEd1819keWSe4bh/W4c29jM0="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
       "value":"ZZ1_SS_RETEST_FIELD1"
      }
     ],
