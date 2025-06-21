@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zss_21_06_obj1.
-"version1 "version2 "Version3
+"version1 "version2
