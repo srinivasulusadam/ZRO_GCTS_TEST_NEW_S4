@@ -4,4 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zss_05_07_prog1.
-"Version1
+"Version1 "Version2 "Version3 "Version4
+"Version2 "Version3 "Version4
+"Version4 "Version4
+"Version4
