@@ -4,5 +4,6 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zss_rp_1343_obj2.
-"Version1 "Version2
-"Versiob2
+"Version1 "Version2 "Version3
+"Versiob2 "Version3
+"Version3
