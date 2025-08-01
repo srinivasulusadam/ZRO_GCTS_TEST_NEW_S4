@@ -1,0 +1,7 @@
+CLASS zss_cl_01_08_obj1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    METHODS: check_data.
