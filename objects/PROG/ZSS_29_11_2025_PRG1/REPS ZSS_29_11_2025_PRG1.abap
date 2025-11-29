@@ -6,5 +6,6 @@
 REPORT zss_29_11_2025_prg1.
 
 DATA(lo_object) = NEW zss_29_11_2025_cls1( ).
-"V2 V3
-"V3
+"V2 V3 V4
+"V3 V4
+"V4
