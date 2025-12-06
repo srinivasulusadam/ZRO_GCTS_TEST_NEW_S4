@@ -1,0 +1,7 @@
+CLASS zss_cl_6_12_obj2 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    DATA mo_class1 TYPE REF TO zss_cl_6_12_obj1.
