@@ -180,6 +180,34 @@
      },
      {
       "key":"ITEM_ID",
+      "value":"ZZ1_SS_22_12_25_FIELD3"
+     }
+    ],
+    "hash":"jTHoDcIRnnEpasqELXoCxdUC1NA="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
+      "value":"ZZ1_SS_22_12_25_FIELD4"
+     }
+    ],
+    "hash":"y9oxTHLzaxJ8Vx7V8qdohUf3NQU="
+   },
+   {
+    "columns":
+    [
+     {
+      "key":"ITEM_TYPE",
+      "value":"CFDF"
+     },
+     {
+      "key":"ITEM_ID",
       "value":"ZZ1_SS_6_12_FIELD1"
      }
     ],
