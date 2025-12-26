@@ -4,6 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zss_rep_26_12_25_obj1.
-"V1 V2 V3
-"V2 V3
- DATA(lo_test) = NEW zss_cl_26_12_25_obj1( )."V3
+"V1 V2 V3 V4
+"V2 V3 V4
+ DATA(lo_test) = NEW zss_cl_26_12_25_obj1( )."V3 V4
+ "V4
