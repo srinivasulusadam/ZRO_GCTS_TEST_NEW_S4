@@ -1,3 +1,3 @@
 METHOD method1.
- "Version1
+ "Version2 1
 ENDMETHOD.
