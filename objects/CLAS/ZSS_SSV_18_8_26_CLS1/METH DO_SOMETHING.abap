@@ -1,3 +1,4 @@
   METHOD do_something.
-    "V1
+    "V2 V1
+    "V2
   ENDMETHOD.
