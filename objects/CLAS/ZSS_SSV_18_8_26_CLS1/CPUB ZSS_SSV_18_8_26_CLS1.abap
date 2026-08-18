@@ -1,0 +1,8 @@
+CLASS zss_ssv_18_8_26_cls1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    METHODS do_something.
+
