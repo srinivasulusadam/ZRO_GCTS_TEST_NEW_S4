@@ -1,0 +1,7 @@
+CLASS zss_cl_19_08_26_cls1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    METHODS: Do_everything.
