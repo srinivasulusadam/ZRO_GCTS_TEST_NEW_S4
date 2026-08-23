@@ -1,3 +1,4 @@
   METHOD lets_do_it.
-    "V1
+    "V2 V1
+    "V2
   ENDMETHOD.
