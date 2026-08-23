@@ -1,0 +1,7 @@
+CLASS zss_cl_23_8_26_obj1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+    METHODS: lets_do_it.
